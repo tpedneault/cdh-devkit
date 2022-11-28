@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/IC.pretty")(options "")(descr ""))
+  (lib (name "Voltage_Regulators")(type "KiCad")(uri "${KIPRJMOD}/Voltage_Regulators.pretty")(options "")(descr ""))
+  (lib (name "SOP")(type "KiCad")(uri "${KIPRJMOD}/SOP.pretty")(options "")(descr ""))
+  (lib (name "MSOP")(type "KiCad")(uri "${KIPRJMOD}/MSOP.pretty")(options "")(descr ""))
+  (lib (name "Crystals")(type "KiCad")(uri "${KIPRJMOD}/Crystals.pretty")(options "")(descr ""))
+)

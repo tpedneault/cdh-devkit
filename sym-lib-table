@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/IC.kicad_sym")(options "")(descr ""))
+  (lib (name "Voltage_Regulators")(type "KiCad")(uri "${KIPRJMOD}/Voltage_Regulators.kicad_sym")(options "")(descr ""))
+  (lib (name "Flash")(type "KiCad")(uri "${KIPRJMOD}/Flash.kicad_sym")(options "")(descr ""))
+  (lib (name "RTC")(type "KiCad")(uri "${KIPRJMOD}/RTC.kicad_sym")(options "")(descr ""))
+  (lib (name "Crystals")(type "KiCad")(uri "${KIPRJMOD}/Crystals.kicad_sym")(options "")(descr ""))
+)
