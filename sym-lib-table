@@ -4,4 +4,5 @@
   (lib (name "Flash")(type "KiCad")(uri "${KIPRJMOD}/Flash.kicad_sym")(options "")(descr ""))
   (lib (name "RTC")(type "KiCad")(uri "${KIPRJMOD}/RTC.kicad_sym")(options "")(descr ""))
   (lib (name "Crystals")(type "KiCad")(uri "${KIPRJMOD}/Crystals.kicad_sym")(options "")(descr ""))
+  (lib (name "Buttons")(type "KiCad")(uri "${KIPRJMOD}/Buttons.kicad_sym")(options "")(descr ""))
 )

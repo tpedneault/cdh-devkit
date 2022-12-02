@@ -1,4 +1,4 @@
-20594460121734264
+20596129777242815
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2225,6 +2225,13 @@ SW PUSH SMALL Tactile C&K
 0
 4
 2
+Buttons
+SW_PTS525SM15SMTR2LFS
+
+
+0
+4
+4
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
