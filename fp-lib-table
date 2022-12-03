@@ -5,4 +5,5 @@
   (lib (name "MSOP")(type "KiCad")(uri "${KIPRJMOD}/MSOP.pretty")(options "")(descr ""))
   (lib (name "Crystals")(type "KiCad")(uri "${KIPRJMOD}/Crystals.pretty")(options "")(descr ""))
   (lib (name "Buttons")(type "KiCad")(uri "${KIPRJMOD}/Buttons.pretty")(options "")(descr ""))
+  (lib (name "TVS")(type "KiCad")(uri "${KIPRJMOD}/TVS.pretty")(options "")(descr ""))
 )
